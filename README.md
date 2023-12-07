@@ -12,3 +12,7 @@ New change
 
 zaazddazazd
 ## How To Contribute
+
+
+## Copyright
+Notice
