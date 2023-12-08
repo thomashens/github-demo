@@ -1,5 +1,5 @@
 # Starter Web Project
-
+emergency fix after stash
 this is a simple website project for showing how to use GIT 
 Adding a line for rebasing example. Now I want to add extra changes from feature branch
 
