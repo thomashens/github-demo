@@ -10,7 +10,7 @@ this is example to show different parts of the git directoy
 New change
 
 ## Deployement 
-
+Stashing
 zaazddazazd
 ## How To Contribute
 Please fork this repository
