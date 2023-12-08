@@ -1,7 +1,7 @@
 # Starter Web Project
 
 this is a simple website project for showing how to use GIT 
-Adding a line for rebasing example.
+Adding a line for rebasing example. Now I want to add extra changes from feature branch
 
 ## Introduction 
 
